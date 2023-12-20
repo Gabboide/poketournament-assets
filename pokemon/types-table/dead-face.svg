@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 24 24" width="800px" height="800px" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" color="#000000" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <circle cx="12" cy="12" r="10" style="" transform="matrix(1, 0, 0, 1, 2.220446049250313e-16, 0)"/>
+  <ellipse style="stroke: rgb(0, 0, 0); stroke-width: 1px; paint-order: fill; fill: rgba(255, 255, 255, 0);" cx="12.043" cy="15.99" rx="2.18" ry="2.166" transform="matrix(1, 0, 0, 1, 2.220446049250313e-16, 0)"/>
+  <path d="M 11.117 5.957 H 11.459 V 7.78 H 13.426 V 8.097 H 11.459 V 9.919 H 11.117 V 8.097 H 9.15 V 7.78 H 11.117 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1px;" transform="matrix(0.707107007504, 0.707107007504, -0.707107007504, 0.707107007504, 6.439378838621, -4.659226866224)" bx:shape="cross 9.15 5.957 4.276 3.962 0.317 0.342 0.5 1@07dd3235"/>
+  <path d="M 11.117 5.957 H 11.459 V 7.78 H 13.426 V 8.097 H 11.459 V 9.919 H 11.117 V 8.097 H 9.15 V 7.78 H 11.117 Z" style="fill: rgb(216, 216, 216); stroke: rgb(0, 0, 0); stroke-width: 1px;" transform="matrix(0.707107007504, 0.707107007504, -0.707107007504, 0.707107007504, 12.994609694563, -4.701751203993)" bx:shape="cross 9.15 5.957 4.276 3.962 0.317 0.342 0.5 1@07dd3235"/>
+</svg>

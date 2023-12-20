@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 24 24" width="800px" height="800px" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" fill="none" color="#000000" xmlns="http://www.w3.org/2000/svg">
+  <path d="M 7.301 14.001 C 8.073 15.758 9.988 17 12 17 C 14.002 17 15.913 15.755 16.693 14.006" style="stroke: rgb(194, 0, 0);" transform="matrix(-1, 0, 0, -1, 23.993999481201, 31.000997543334)"/>
+  <line stroke-linecap="round" x1="9" y1="9" x2="9" y2="9" style="stroke: rgb(194, 0, 0);" transform="matrix(1, 0, 0, 1, 2.220446049250313e-16, 0)"/>
+  <line stroke-linecap="round" x1="15" y1="9" x2="15" y2="9" style="stroke: rgb(194, 0, 0);" transform="matrix(1, 0, 0, 1, 2.220446049250313e-16, 0)"/>
+  <circle cx="12" cy="12" r="10" style="stroke: rgb(194, 0, 0);" transform="matrix(1, 0, 0, 1, 2.220446049250313e-16, 0)"/>
+</svg>
